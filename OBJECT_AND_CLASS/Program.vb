@@ -1,6 +1,6 @@
 Imports System
 Imports System.Transactions
-
+'the program is simply about inheritance applied along with constructor to initalize default values
 Public Class shape
     Public length As Decimal
     Public breadth As Decimal
