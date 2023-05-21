@@ -1,0 +1,15 @@
+D:\project\Abstract class\obj\Debug\net7.0\Abstract class.vbproj.AssemblyReference.cache
+D:\project\Abstract class\obj\Debug\net7.0\Abstract class.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Abstract class\obj\Debug\net7.0\Abstract class.AssemblyInfoInputs.cache
+D:\project\Abstract class\obj\Debug\net7.0\Abstract class.AssemblyInfo.vb
+D:\project\Abstract class\obj\Debug\net7.0\Abstract class.vbproj.CoreCompileInputs.cache
+D:\project\Abstract class\bin\Debug\net7.0\Abstract class.exe
+D:\project\Abstract class\bin\Debug\net7.0\Abstract class.deps.json
+D:\project\Abstract class\bin\Debug\net7.0\Abstract class.runtimeconfig.json
+D:\project\Abstract class\bin\Debug\net7.0\Abstract class.dll
+D:\project\Abstract class\bin\Debug\net7.0\Abstract class.pdb
+D:\project\Abstract class\obj\Debug\net7.0\Abstract class.dll
+D:\project\Abstract class\obj\Debug\net7.0\refint\Abstract class.dll
+D:\project\Abstract class\obj\Debug\net7.0\Abstract class.pdb
+D:\project\Abstract class\obj\Debug\net7.0\Abstract class.genruntimeconfig.cache
+D:\project\Abstract class\obj\Debug\net7.0\ref\Abstract class.dll
