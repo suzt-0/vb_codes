@@ -1,0 +1,15 @@
+D:\project\OBJECT_AND_CLASS\bin\Debug\net7.0\OBJECT_AND_CLASS.exe
+D:\project\OBJECT_AND_CLASS\bin\Debug\net7.0\OBJECT_AND_CLASS.deps.json
+D:\project\OBJECT_AND_CLASS\bin\Debug\net7.0\OBJECT_AND_CLASS.runtimeconfig.json
+D:\project\OBJECT_AND_CLASS\bin\Debug\net7.0\OBJECT_AND_CLASS.dll
+D:\project\OBJECT_AND_CLASS\bin\Debug\net7.0\OBJECT_AND_CLASS.pdb
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\OBJECT_AND_CLASS.vbproj.AssemblyReference.cache
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\OBJECT_AND_CLASS.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\OBJECT_AND_CLASS.AssemblyInfoInputs.cache
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\OBJECT_AND_CLASS.AssemblyInfo.vb
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\OBJECT_AND_CLASS.vbproj.CoreCompileInputs.cache
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\OBJECT_AND_CLASS.dll
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\refint\OBJECT_AND_CLASS.dll
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\OBJECT_AND_CLASS.pdb
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\OBJECT_AND_CLASS.genruntimeconfig.cache
+D:\project\OBJECT_AND_CLASS\obj\Debug\net7.0\ref\OBJECT_AND_CLASS.dll
