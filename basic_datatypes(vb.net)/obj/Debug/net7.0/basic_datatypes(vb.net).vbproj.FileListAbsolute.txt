@@ -1,0 +1,15 @@
+D:\project\basic_datatypes(vb.net)\bin\Debug\net7.0\basic_datatypes(vb.net).exe
+D:\project\basic_datatypes(vb.net)\bin\Debug\net7.0\basic_datatypes(vb.net).deps.json
+D:\project\basic_datatypes(vb.net)\bin\Debug\net7.0\basic_datatypes(vb.net).runtimeconfig.json
+D:\project\basic_datatypes(vb.net)\bin\Debug\net7.0\basic_datatypes(vb.net).dll
+D:\project\basic_datatypes(vb.net)\bin\Debug\net7.0\basic_datatypes(vb.net).pdb
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\basic_datatypes(vb.net).vbproj.AssemblyReference.cache
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\basic_datatypes(vb.net).GeneratedMSBuildEditorConfig.editorconfig
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\basic_datatypes(vb.net).AssemblyInfoInputs.cache
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\basic_datatypes(vb.net).AssemblyInfo.vb
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\basic_datatypes(vb.net).vbproj.CoreCompileInputs.cache
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\basic_datatypes(vb.net).dll
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\refint\basic_datatypes(vb.net).dll
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\basic_datatypes(vb.net).pdb
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\basic_datatypes(vb.net).genruntimeconfig.cache
+D:\project\basic_datatypes(vb.net)\obj\Debug\net7.0\ref\basic_datatypes(vb.net).dll
