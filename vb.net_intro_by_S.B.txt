@@ -10,7 +10,7 @@ Is vb.net a rare out of date language?
 -Yes
 
 Why am I using vb.net?
--because it is in my course and it is very outdated :) 
+-because it is in my course :) 
 
 Why am I doing such course?
 -because I donot like happiness :)
